@@ -1,1 +1,4 @@
 *.class
+.settings/
+drivers/
+test-output/
