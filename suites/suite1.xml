@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<suite name = "First Suite" allow-return-values = "true" configfailurepolicy='skip'>
+	<test name = "sample tests" configfailurepolicy = "skip">
+		<groups>
+			<run>
+				<include name = "Smoke"/>
+			</run>
+		</groups>
+		<classes>
+			<class name = "tests.Sample" />
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="ToolsQA" verbose="1">
+	<test name="Automation Practice">
+		<classes>
+			<class name="toolsQA.TestCasesToolsQA"/>
+			<class name="selenium.SeleniumUtilities"/>
+		</classes>
+	</test>
+</suite>

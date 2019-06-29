@@ -2,3 +2,4 @@ bin/
 .settings/
 drivers/
 test-output/
+.classpath

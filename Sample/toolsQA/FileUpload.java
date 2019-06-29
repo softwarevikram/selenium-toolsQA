@@ -1,6 +1,6 @@
 package toolsQA;
 
-import selenium.SeleniumUtilities;
+import my.lib.SeleniumUtilities;
 
 public class FileUpload extends SeleniumUtilities{	
 	
